@@ -7,7 +7,7 @@ int main (){
   printf("%d + %d = %d", a, b, a+b);
   printf("fdsa");
   // jjj
-
+  // komentar
   return 0;
 }
 // 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
